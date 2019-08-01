@@ -7,8 +7,10 @@
 > - Cristian Ordoñez Figueroa
 > - Pablo Sáez Parra
 
-## Cotiza Fácil
+# **Cotiza Fácil**
 
 ---
 
 > [Slides Presentación](https://docs.google.com/presentation/d/1LgTsM4fHhBTU0AkRl8E-yVsI41dQTvhRwSl03fziSuw/edit?usp=sharing)
+
+> [Documento ERS](https://docs.google.com/document/d/1imHnSKCbUMR-4mrA6zGGKG4vd3CIDOhkVAurxlKUmzI/edit?usp=sharing)
