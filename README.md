@@ -4,7 +4,7 @@
 >
 > - Felipe Aguilera González
 > - Camilo Muñoz Lienlaf
-> - Cristian Ordoñez Figueroa
+> - Pricila Badilla
 > - Pablo Sáez Parra
 
 # **Cotiza Fácil**
