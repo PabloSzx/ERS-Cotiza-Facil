@@ -8,6 +8,11 @@
 > - Pablo Sáez Parra
 
 # **Cotiza Fácil**
+---
+
+> [Repositorio Principal](https://github.com/PabloSzx/CotizaFacil)
+
+> [Repository Playground Web Scrapers](https://github.com/PabloSzx/CotizaFacilWebScrapers)
 
 ---
 
