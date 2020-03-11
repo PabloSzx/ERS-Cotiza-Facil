@@ -32,3 +32,5 @@
 > [Arquitectura](https://drive.google.com/file/d/1g7s2uTFOHdgIyOQIeuD3ur1zW3MFFf32/view?usp=sharing)
 
 > [Entidades](https://drive.google.com/file/d/1a_shjAYOnIm-OHbCT49Xj__GM68HNe6l/view?usp=sharing)
+
+> [Modelo de base de datos](https://github.com/PabloSzx/ERS-Cotiza-Facil/blob/master/Modelo%20base%20de%20datos.pdf)
